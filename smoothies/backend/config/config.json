@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "senha123",
+    "database": "smoothieslife",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "admin",
+    "password": "senha123",
+    "database": "smoothieslife_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "admin",
+    "password": "senha123",
+    "database": "smoothieslife_prod",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
